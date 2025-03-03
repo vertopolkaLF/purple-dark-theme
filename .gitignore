@@ -5,3 +5,4 @@
 *.tar.xz
 *.tar.lzma
 *.tar.lz
+/packages
