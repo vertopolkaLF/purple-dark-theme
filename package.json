@@ -2,7 +2,7 @@
     "name": "purple-dark-theme-lf",
     "displayName": "Purple Dark Theme",
     "description": "Kinda good Purple Dark Theme with orange accents",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "publisher": "vertopolkalf",
     "engines": {
         "vscode": "^1.60.0"
