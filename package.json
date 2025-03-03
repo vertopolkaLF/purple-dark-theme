@@ -2,7 +2,7 @@
     "name": "purple-dark-theme-lf",
     "displayName": "Purple Dark Theme",
     "description": "Kinda good Purple Dark Theme with orange accents",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "vertopolkalf",
     "engines": {
         "vscode": "^1.60.0"
@@ -28,7 +28,8 @@
         "theme": "dark"
     },
     "contributes": {
-        "themes": [{
+        "themes": [
+            {
                 "label": "Purple Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/purple-dark-color-theme.json"
