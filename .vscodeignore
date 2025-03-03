@@ -1,0 +1,10 @@
+.vscode/**
+.vscode-test/**
+.gitignore
+vsc-extension-quickstart.md
+.git
+.github
+node_modules
+screenshots
+**/*.map
+**/.DS_Store 
