@@ -1,55 +1,54 @@
 {
-	"name": "purple-dark-theme-lf",
-	"displayName": "Purple Dark Theme (+light)",
-	"description": "I don't know what am I doing lmao",
-	"version": "1.0.0",
-	"publisher": "vertopolkalf",
-	"engines": {
-		"vscode": "^1.60.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"keywords": [
-		"theme",
-		"dark theme",
-		"light theme",
-		"purple",
-		"dark",
-		"light",
-		"color theme",
-		"purple dark",
-		"purple dark theme",
-		"purple dark color theme"
-	],
-	"icon": "icon.png",
-	"galleryBanner": {
-		"color": "#1d1427",
-		"theme": "dark"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"label": "Purple Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/purple-dark-color-theme.json"
-			},
-			{
-				"label": "Purple Light",
-				"uiTheme": "vs",
-				"path": "./themes/purple-light-color-theme.json"
-			}
-		]
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/vertopolkalf/purple-dark-theme"
-	},
-	"bugs": {
-		"url": "https://github.com/vertopolkalf/purple-dark-theme/issues"
-	},
-	"license": "MIT",
-	"__metadata": {
-		"size": 157288
-	}
+    "name": "purple-dark-theme-lf",
+    "displayName": "Purple Dark Theme",
+    "description": "Kinda good Purple Dark Theme with orange accents",
+    "version": "1.0.1",
+    "publisher": "vertopolkalf",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "light theme",
+        "purple",
+        "dark",
+        "light",
+        "color theme",
+        "purple dark",
+        "purple dark theme",
+        "purple dark color theme"
+    ],
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#1d1427",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [{
+                "label": "Purple Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/purple-dark-color-theme.json"
+            },
+            {
+                "label": "Purple Light",
+                "uiTheme": "vs",
+                "path": "./themes/purple-light-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vertopolkalf/purple-dark-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/vertopolkalf/purple-dark-theme/issues"
+    },
+    "license": "MIT",
+    "__metadata": {
+        "size": 157288
+    }
 }

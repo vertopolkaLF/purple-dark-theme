@@ -1,39 +1,39 @@
 # Purple Theme
 
-Элегантная тема для Visual Studio Code с акцентом на фиолетовые оттенки. Доступна в двух вариантах: тёмная и светлая.
+An elegant theme for Visual Studio Code with an emphasis on purple shades. Available in two variants: dark and light.
 
-## Особенности
+## Features
 
-- 🎨 Тщательно подобранная цветовая палитра
-- 🌓 Два варианта темы: тёмная и светлая
-- 🔍 Поддержка семантической подсветки синтаксиса
-- 💻 Оптимизирована для длительной работы с кодом
-- ⚡ Поддержка популярных языков программирования
+- 🎨 Carefully selected color palette
+- 🌓 Two variants of the theme: dark and light
+- 🔍 Support for semantic syntax highlighting
+- 💻 Optimized for long time working with code
+- ⚡ Support for popular programming languages
 
-## Установка
+## Installation
 
-1. Откройте **Extensions** в VS Code (`Ctrl+Shift+X` или `Cmd+Shift+X`)
-2. Найдите `Purple Theme`
-3. Нажмите **Install**
-4. Нажмите **Reload** для активации
-5. Нажмите `Ctrl+K Ctrl+T` или `Cmd+K Cmd+T` и выберите:
-   - `Purple Dark` для тёмной темы
-   - `Purple Light` для светлой темы
+1. open **Extensions** in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X`).
+2. Find `Purple Theme`.
+3. Click **Install**
+4. Click **Reload** to activate it
+5. Press `Ctrl+K Ctrl+T` or `Cmd+K Cmd+T` and select:
+   - `Purple Dark` for dark theme
+   - `Purple Light` for light theme
 
-## Скриншоты
+### Screenshots
 
-### Тёмная тема
+### Dark theme
 
-[Скриншот тёмной темы]
+[Screenshot of dark theme]
 
-### Светлая тема
+### Light Theme
 
-[Скриншот светлой темы]
+[Screenshot of Light Theme]
 
-## Обратная связь
+## Feedback
 
-Если у вас есть предложения по улучшению или вы нашли баг, пожалуйста, создайте issue в репозитории.
+If you have suggestions for improvement or have found a bug, please create an issue in the repository.
 
-## Лицензия
+### License
 
 MIT
