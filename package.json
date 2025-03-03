@@ -1,6 +1,6 @@
 {
-	"name": "purple-dark-theme",
-	"displayName": "Purple Theme",
+	"name": "purple-dark-theme-lf",
+	"displayName": "Purple Dark Theme (+light)",
 	"description": "I don't know what am I doing lmao",
 	"version": "1.0.0",
 	"publisher": "vertopolkalf",
@@ -20,13 +20,7 @@
 		"color theme",
 		"purple dark",
 		"purple dark theme",
-		"purple dark color theme",
-		"amethyst pro theme",
-		"amethyst pro",
-		"amethyst pro theme",
-		"amethyst pro color theme",
-		"amethyst pro dark theme",
-		"amethyst pro light theme",
+		"purple dark color theme"
 	],
 	"icon": "icon.png",
 	"galleryBanner": {
