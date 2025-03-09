@@ -2,6 +2,8 @@
 
 An elegant theme for Visual Studio Code with an emphasis on purple shades. Available in two variants: dark and light.
 
+![Dark Theme Screenshot 1](https://github.com/vertopolkaLF/purple-dark-theme/blob/main/screenshots/dark-1.png)
+
 ## Features
 
 - 🎨 Carefully selected color palette
@@ -30,7 +32,7 @@ An elegant theme for Visual Studio Code with an emphasis on purple shades. Avail
 
 ### Light Theme
 
-[Screenshot of Light Theme]
+![Dark Theme Screenshot 3](https://github.com/vertopolkaLF/purple-dark-theme/blob/main/screenshots/duckmyeyes-1.png)
 
 ## Feedback
 
