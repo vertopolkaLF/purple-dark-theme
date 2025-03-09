@@ -24,7 +24,9 @@ An elegant theme for Visual Studio Code with an emphasis on purple shades. Avail
 
 ### Dark theme
 
-[Screenshot of dark theme]
+![Dark Theme Screenshot 1](screenshots/dark-theme-1.png)
+![Dark Theme Screenshot 2](screenshots/dark-theme-2.png)
+![Dark Theme Screenshot 3](screenshots/dark-theme-3.png)
 
 ### Light Theme
 
