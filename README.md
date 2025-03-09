@@ -2,7 +2,7 @@
 
 An elegant theme for Visual Studio Code with an emphasis on purple shades. Available in two variants: dark and light.
 
-![Dark Theme Screenshot 1](https://github.com/vertopolkaLF/purple-dark-theme/blob/main/screenshots/dark-1.png)
+![Dark Theme Screenshot 1](https://raw.githubusercontent.com/vertopolkaLF/purple-dark-theme/refs/heads/main/screenshots/dark-1.png)
 
 ## Features
 
@@ -26,13 +26,13 @@ An elegant theme for Visual Studio Code with an emphasis on purple shades. Avail
 
 ### Dark theme
 
-![Dark Theme Screenshot 1](https://github.com/vertopolkaLF/purple-dark-theme/blob/main/screenshots/dark-1.png)
-![Dark Theme Screenshot 2](https://github.com/vertopolkaLF/purple-dark-theme/blob/main/screenshots/dark-2.png)
-![Dark Theme Screenshot 3](https://github.com/vertopolkaLF/purple-dark-theme/blob/main/screenshots/dark-3.png)
+![Dark Theme Screenshot 1](https://raw.githubusercontent.com/vertopolkaLF/purple-dark-theme/refs/heads/main/screenshots/dark-1.png)
+![Dark Theme Screenshot 2](https://raw.githubusercontent.com/vertopolkaLF/purple-dark-theme/refs/heads/main/screenshots/dark-2.png)
+![Dark Theme Screenshot 3](https://raw.githubusercontent.com/vertopolkaLF/purple-dark-theme/refs/heads/main/screenshots/dark-3.png)
 
 ### Light Theme
 
-![Dark Theme Screenshot 3](https://github.com/vertopolkaLF/purple-dark-theme/blob/main/screenshots/duckmyeyes-1.png)
+![Light Theme Screenshot 1](https://raw.githubusercontent.com/vertopolkaLF/purple-dark-theme/refs/heads/main/screenshots/duckmyeyes-1.png)
 
 ## Feedback
 
