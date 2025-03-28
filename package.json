@@ -28,7 +28,8 @@
         "theme": "dark"
     },
     "contributes": {
-        "themes": [{
+        "themes": [
+            {
                 "label": "Purple Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/purple-dark-color-theme.json"
@@ -47,5 +48,8 @@
     "bugs": {
         "url": "https://github.com/vertopolkalf/purple-dark-theme/issues"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "vsce": "^2.15.0"
+    }
 }

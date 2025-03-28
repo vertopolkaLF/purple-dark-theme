@@ -6,3 +6,4 @@
 *.tar.lzma
 *.tar.lz
 /packages
+node_modules
